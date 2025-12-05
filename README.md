@@ -9,7 +9,14 @@
 - C++/Python modeler crafting adaptive kMC and multiscale solvers for realistic crystals and catalysts
 - HPC-ready workflows (MPI, OpenMP, CUDA) to shorten iteration cycles without losing rigor
 - Fluent with ANSYS, OpenFOAM, COMSOL, LIGGGHTS for tightly coupled physics
-- Contact: satchit@tamu.edu • LinkedIn | Github | Google Scholar
+
+## Collaborate
+I’m excited to pair with teams who want rigorously validated CFD or kMC models that move the needle on real hardware and processes. Reach out at `satchit@tamu.edu` or connect via LinkedIn/Github/Google Scholar.
+
+## How I Work
+- Lean, testable models; benchmark early against experiments or literature baselines.
+- Performance-aware code (profiling and parallelism) without sacrificing readability.
+- Communicate results with clear visuals and concise engineering narratives.
 
 ## Technical Toolbox
 - Languages: C++, Python, MATLAB, Bash
@@ -40,15 +47,3 @@
 - Research Intern — IIT Roorkee (Multiphase slug-flow CFD in micro-pipes)
 - Summer Intern — ONGC (Data-driven well selection model via Grey relational analysis)
 - Research Intern — CSIR IMMT (CFD optimization of oleum-to-H2SO4 packed-bed reactor)
-
-## Education
-- Ph.D., Chemical Engineering — Texas A&M University (Aug 2022 – Present)
-- B.E., Chemical Engineering — BITS Pilani (Aug 2017 – May 2021)
-
-## How I Work
-- Lean, testable models; benchmark early against experiments or literature baselines.
-- Performance-aware code (profiling and parallelism) without sacrificing readability.
-- Communicate results with clear visuals and concise engineering narratives.
-
-## Collaborate
-I’m excited to pair with teams who want rigorously validated CFD or kMC models that move the needle on real hardware and processes. Reach out at `satchit@tamu.edu` or connect via LinkedIn/Github/Google Scholar.
