@@ -20,11 +20,13 @@
 - Communicate results with clear visuals and concise engineering narratives.
 
 ## Technical Toolbox
-> Languages: 
+> Languages:
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+</p>
           
 - CFD / Multiphysics: ANSYS Fluent, OpenFOAM, COMSOL, Basilisk, LIGGGHTS
 - Numerics & HPC: MPI, OpenMP, CUDA; coarse time-stepping and multiscale coupling
