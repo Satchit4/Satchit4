@@ -26,10 +26,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansys/ansys-original.svg" alt="ansys" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" alt="gcc" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" alt="spyder" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>       
 </p>
@@ -38,7 +41,6 @@
 - Numerics & HPC: MPI, OpenMP, CUDA; coarse time-stepping and multiscale coupling
 - Data & Viz: NumPy, Pandas, Matplotlib, Seaborn, Gnuplot, SciPy
 - CAD & Prep: SolidWorks, AutoCAD, Blender for geometry/meshing workflows
-- Versioning: Git-first; reproducible experiments and notebooks 
 
 ## Code-Driven Projects
 - **Adaptive kMC for Crystal Morphology (C++)** — Physics-informed, thermodynamics-aware kMC across growth regimes; captured dual roles of crystal modifiers for better morphology prediction.
