@@ -32,7 +32,7 @@
 
 ## Technical Toolbox
 > Languages: 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />, Python, MATLAB, Bash
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="vscode" width="45" height="45"/>, Python, MATLAB, Bash
 - CFD / Multiphysics: ANSYS Fluent, OpenFOAM, COMSOL, Basilisk, LIGGGHTS
 - Numerics & HPC: MPI, OpenMP, CUDA; coarse time-stepping and multiscale coupling
 - Data & Viz: NumPy, Pandas, Matplotlib, Seaborn, Gnuplot, SciPy
