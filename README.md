@@ -13,9 +13,9 @@
   </a>
 </p> 
 
-# Satchit Nagpal — Computational Fluid Engineering & kMC Modeling
+# Simulation & Modeling Expert
 
-> Ph.D. candidate in Chemical Engineering (Texas A&M) building CFD and kinetic Monte Carlo models that turn transport theory into reproducible, high-impact code.
+> Ph.D. candidate in Chemical Engineering (Texas A&M University) building CFD and kinetic Monte Carlo models that turn transport theory into reproducible, high-impact code.
 
 ---
 
