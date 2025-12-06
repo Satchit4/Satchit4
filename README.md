@@ -10,13 +10,13 @@
 
 ---
 
-## Snapshot
-- Computational fluid engineer with a bias for validated simulations and clean data stories
-- C++/Python modeler crafting adaptive kMC and multiscale solvers for realistic crystals and catalysts
-- HPC-ready workflows (MPI, OpenMP, CUDA) to shorten iteration cycles without losing rigor
-- Fluent with ANSYS, OpenFOAM, COMSOL, LIGGGHTS for tightly coupled physics
+## Who am I here?
+- Computational fluid engineer with a bias for validated simulations and clean data
+- C++/Python modeler crafting adaptive kMC and multiscale solvers for crystallization, fermentation and catalysis
+- HPC-ready workflows (MPI, OpenMP, CUDA) to shorten iteration cycles without losing accuracy
+- Fluent with ANSYS, OpenFOAM, COMSOL, LIGGGHTS for coupled physics
 
-## How I Work
+## How I Work?
 - Lean, testable models; benchmark early against experiments or literature baselines.
 - Performance-aware code (profiling and parallelism) without sacrificing readability.
 - Communicate results with clear visuals and concise engineering narratives.
