@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 # Satchit Nagpal — Computational Fluid Engineering & kMC Modeling
 
 > Ph.D. candidate in Chemical Engineering (Texas A&M) building CFD and kinetic Monte Carlo models that turn transport theory into reproducible, high-impact code.
