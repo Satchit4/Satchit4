@@ -19,19 +19,22 @@
 - Performance-aware code (profiling and parallelism) without sacrificing readability.
 - Communicate results with clear visuals and concise engineering narratives.
 
-## <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+## <h2> &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansys/ansys-original-wordmark.svg" alt="ansys" width="45" height="45"/>
+          
 </p>
           
 - CFD / Multiphysics: ANSYS Fluent, OpenFOAM, COMSOL, Basilisk, LIGGGHTS
 - Numerics & HPC: MPI, OpenMP, CUDA; coarse time-stepping and multiscale coupling
 - Data & Viz: NumPy, Pandas, Matplotlib, Seaborn, Gnuplot, SciPy
 - CAD & Prep: SolidWorks, AutoCAD, Blender for geometry/meshing workflows
-- Versioning: Git-first; reproducible experiments and notebooks <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+- Versioning: Git-first; reproducible experiments and notebooks 
 
 ## Code-Driven Projects
 - **Adaptive kMC for Crystal Morphology (C++)** — Physics-informed, thermodynamics-aware kMC across growth regimes; captured dual roles of crystal modifiers for better morphology prediction.
