@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Satchit%20Nagpal&textBg=false&animation=fadeIn&section=footer&fontColor=000000">
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Satchit%20Nagpal&textBg=false&animation=fadeIn&section=footer&fontColor=f0eee9">
 </p>
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
