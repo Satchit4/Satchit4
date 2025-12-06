@@ -1,17 +1,6 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Satchit%20Nagpal&textBg=false&animation=fadeIn&section=footer&fontColor=f0eee9">
 </p>
-<p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="https://capsule-render.vercel.app/">
-    <img src="https://img.shields.io/badge/Generator%20-%235c86fa.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p> 
 
 # Simulation & Modeling Expert
 
@@ -32,8 +21,11 @@
 
 ## Technical Toolbox
 > Languages: 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="vscode" width="45" height="45"/>, 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>, MATLAB, Bash
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="vscode" width="45" height="45"/>, 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>, 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>, 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+          
 - CFD / Multiphysics: ANSYS Fluent, OpenFOAM, COMSOL, Basilisk, LIGGGHTS
 - Numerics & HPC: MPI, OpenMP, CUDA; coarse time-stepping and multiscale coupling
 - Data & Viz: NumPy, Pandas, Matplotlib, Seaborn, Gnuplot, SciPy
