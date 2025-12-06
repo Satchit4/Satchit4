@@ -2,6 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Satchit%20Nagpal&textBg=false&animation=fadeIn&section=footer&fontColor=f0eee9">
 </p>
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />      
+
 # Simulation & Modeling Expert
 
 > Ph.D. candidate in Chemical Engineering (Texas A&M University) building CFD and kinetic Monte Carlo models that turn transport theory into reproducible, high-impact code.
@@ -26,8 +28,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansys/ansys-original-wordmark.svg" alt="ansys" width="45" height="45"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansys/ansys-original.svg" alt="ansys" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" alt="gcc" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>       
 </p>
           
 - CFD / Multiphysics: ANSYS Fluent, OpenFOAM, COMSOL, Basilisk, LIGGGHTS
