@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Satchit%20Nagpal&textBg=false&animation=fadeIn&section=footer&fontColor=f0eee9">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Satchit%20Nagpal&textBg=false&animation=fadeIn&section=footer&fontColor=f0eee9">
 </p>
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />      
