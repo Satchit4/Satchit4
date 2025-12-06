@@ -36,7 +36,7 @@
 - Numerics & HPC: MPI, OpenMP, CUDA; coarse time-stepping and multiscale coupling
 - Data & Viz: NumPy, Pandas, Matplotlib, Seaborn, Gnuplot, SciPy
 - CAD & Prep: SolidWorks, AutoCAD, Blender for geometry/meshing workflows
-- Versioning: Git-first; reproducible experiments and notebooks
+- Versioning: Git-first; reproducible experiments and notebooks <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 
 ## Code-Driven Projects
 - **Adaptive kMC for Crystal Morphology (C++)** — Physics-informed, thermodynamics-aware kMC across growth regimes; captured dual roles of crystal modifiers for better morphology prediction.
